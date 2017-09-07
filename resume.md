@@ -4,9 +4,9 @@ title: My resume
 permalink: /resume/
 ---
 
-#Experience 
+# Experience 
 - Dota2
 - Web Develop
 
-#Education 
+# Education 
 - You know nothing jon snow
